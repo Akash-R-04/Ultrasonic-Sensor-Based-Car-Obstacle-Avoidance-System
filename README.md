@@ -50,7 +50,7 @@ Feel free to fork the repo, make changes, and submit pull requests to improve th
 
 ## 📷 Demo
 
-![Robot Car](https://photos.app.goo.gl/Tg8XcuF6dkrXvepv8)  
+(https://photos.app.goo.gl/Tg8XcuF6dkrXvepv8)  
 *A simple obstacle-avoiding robot car.*
 
 ---
